@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                     name: "MDAutomotiveMobileSDK",
-                    url: "https://github.com/mgertjegerdes/MDAutomotiveMobileSDK.git/MDAutomotiveMobileSDK.xcframework.zip",
-                    checksum: "7468af4ac88a272270ae9b336d2b87f28bede5c1a2cf7b79d67608da8b0c2ffa"
+                    url: "https://github.com/mgertjegerdes/MDAutomotiveMobileSDK/releases/download/1.0.0/MDAutomotiveMobileSDK.xcframework.zip",
+                    checksum: "83a0a044b8c80bfd034c023a4cd0fac57439272b3654bfa81cc4826882c1fbef"
                 )
     ]
 )
